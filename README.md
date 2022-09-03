@@ -18,5 +18,7 @@ naturally.
 3. The third benefit is that the modification and updation of each independent module is easier in this case.
 All of these benefits are the requirements of a good software development methodology; and through this module, 
 you will see how all these requirements are met well by an object-oriented programming approach
+ 
+![image](https://user-images.githubusercontent.com/109607449/188267517-348fdd75-0c68-4e97-a85a-dec240cdcf68.png)
 
-'Condition & Loops'
+
